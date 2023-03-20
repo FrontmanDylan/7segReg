@@ -1,0 +1,7 @@
+Seven Segment Display Register File
+by: Dylan Danowski
+
+This respository contains all the Quartus files necessary for a register
+that holds 7 segment display values in 4-bit BCD 
+
+The top level entity is segReg.v
